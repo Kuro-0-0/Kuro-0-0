@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kuro-0-0's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 1153, Total PRs: 227, Total Issues: 233, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 1155, Total PRs: 229, Total Issues: 233, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 97.05168020786812;
+        stroke-dashoffset: 96.96835258763933;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >227</text>
+      >229</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
