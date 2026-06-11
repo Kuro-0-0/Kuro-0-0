@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Kuro-0-0's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 1105, Total PRs: 323, Total Issues: 293, Contributed to (last year): 6</desc>
+        <title id="titleId">Pablo Garcia's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 1118, Total PRs: 326, Total Issues: 293, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 93.9158856195008;
+        stroke-dashoffset: 93.81753911353614;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Kuro-0-0's GitHub Stats</text>
+      >Pablo Garcia's GitHub Stats</text>
     </g>
       </g>
     
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >323</text>
+      >326</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
