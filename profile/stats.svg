@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Pablo Garcia's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 3232, Total PRs: 774, Total Issues: 434, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 3245, Total PRs: 785, Total Issues: 443, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.1611626321292;
+        stroke-dashoffset: 92.16075041284108;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >774</text>
+      >785</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >434</text>
+      >443</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
